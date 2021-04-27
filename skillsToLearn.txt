@@ -4,4 +4,9 @@
 4. Maven
 5. Git
 6. Jenkins
+7. JavaScript
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
