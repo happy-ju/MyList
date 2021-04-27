@@ -1,0 +1,7 @@
+1. Java
+2. Selenium
+3. RestAssured
+4. Maven
+5. Git
+6. Jenkins
+
